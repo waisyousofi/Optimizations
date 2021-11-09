@@ -9,8 +9,13 @@ Manual implementation is also done.
 <br>
 
 Libraries used:<br>
+
 * pandas
 <br>
+
+
 * Numpy
 <br>
+
+
 * sklearn.impute import SimpleImputer
