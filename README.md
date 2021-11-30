@@ -12,10 +12,8 @@ Libraries used:<br>
 
 * pandas
 <br>
-
-
 * Numpy
 <br>
-
-
 * sklearn.impute import SimpleImputer
+<hr><br>
+Data Cleaning:<br>
