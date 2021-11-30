@@ -14,4 +14,4 @@ Libraries used:<br>
 <hr>
 <br>
 Data Cleaning:<br>
-![](cleaningimg.PNG)
+![](/cleaningimg.PNG)
