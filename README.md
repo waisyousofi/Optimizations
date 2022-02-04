@@ -1,21 +1,6 @@
 # Different types of data pre-processing techniques which can be used to make the data ready for analysis and feeding to machine learning models.
 
-* Imputation
-* Cleaning
-* 
 
+* Imputation: In this case data is not there or missing and we will replace and handle those missing values with some suitable value.
 
-<br>
-Data Imputation:<br>
-Implementation of different techniques to handle missing values,
-Manual implementation is also done.
-<br>
-Libraries used:<br>
-* pandas
-<br>
-* Numpy
-<br>
-* sklearn.impute import SimpleImputer
-<hr>
-<br>
-Data Cleaning:<br>
+* Cleaning: It means data-points are there but according to business instruction and ML model requirements they are wrong, That's why they have to be cleaned or aligned with the    given instructions, So that it should not have a bad effect on the model performance.
