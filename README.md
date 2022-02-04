@@ -1,7 +1,10 @@
-# Usable_data
-Data Cleaning, Imputation and Validation
-<p>for more explaination please watch my recored video</p>
-[Link:](https://youtu.be/E5-X6beyKWM)
+# Different types of data pre-processing techniques which can be used to make the data ready for analysis and feeding to machine learning models.
+
+* Imputation
+* Cleaning
+* 
+
+
 <br>
 Data Imputation:<br>
 Implementation of different techniques to handle missing values,
